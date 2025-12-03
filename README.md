@@ -34,9 +34,8 @@ A full-stack developer, AI enthusiast, and someone who loves building things tha
 
 ## 📈 GitHub Stats (Dark Mode)
 
-![Navneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=navneetshahi14&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=navneetshahi14&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetshahi14&layout=compact&theme=dark)
 
 ---
 
