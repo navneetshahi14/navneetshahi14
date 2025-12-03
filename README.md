@@ -32,10 +32,9 @@ A full-stack developer, AI enthusiast, and someone who loves building things tha
 
 ---
 
-## 📈 GitHub Stats (Dark Mode)
+## 📈 Top Languages
 
-![GitHub Streak](https://streak-stats.demolab.com?user=navneetshahi14&theme=dark)
-
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=navneetshahi14&layout=compact&theme=dark)
 
 ---
 
