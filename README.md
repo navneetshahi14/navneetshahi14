@@ -31,6 +31,8 @@ A full-stack developer, AI enthusiast, and someone who loves building things tha
 `Git/GitHub` • `Docker` • `Postman` • `Firebase` • `Vercel` • `Railway`
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=navneetshahi14)
+---
 
 ## 📈 Top Languages
 
